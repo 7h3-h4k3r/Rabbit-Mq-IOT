@@ -1,0 +1,2 @@
+fanout exchange method 
+once sender send  a message -> many recivers get the same message
