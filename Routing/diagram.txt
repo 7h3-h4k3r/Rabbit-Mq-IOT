@@ -1,0 +1,10 @@
+Producer
+   |
+   | routing_key="error"
+   v
+Direct Exchange
+   |
+   v
+error_queue
+   |
+Consumer
